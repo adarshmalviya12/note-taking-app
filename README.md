@@ -1,5 +1,5 @@
 # React Note Taking App
-(Hosted Link - https://note-taking-app-sooty.vercel.app/)
+[Hosted Link](https://note-taking-app-sooty.vercel.app/)
 
 This is a simple note-taking app built using React. It allows you to create new notes, delete existing ones and search for notes based on their text content.
 
